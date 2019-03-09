@@ -164,6 +164,7 @@ namespace OpenCV.SDKDemo.FaceDetect
             //int left = cols / 8;
             //int top = rows / 8;
 
+
             int top = cols / 8;
             int left = rows / 8;
 
